@@ -28,10 +28,10 @@ The dataset contains information about medical devices that have been approved b
 
 # Notebooks
 -data_collection.ipynb
-This notebook contains the code used to collect the data from the National Library of Medicine's openFDA API. It includes the API endpoint, query parameters, and the code to extract and save the data to a CSV file.
+This notebook contains the code used to collect the data from the National Library of Medicine's openFDA API. It includes the API endpoint, query parameters.
 
 -sql_analysis.ipynb
-This notebook contains the code used to load the data into a SQL database and perform analysis on it. It includes SQL queries to extract information about the medical devices and adverse events, as well as code to visualize the data using Python libraries such as Pandas and Matplotlib.
+This notebook contains the code used to load the data into a SQL database and perform analysis on it. It includes SQL queries to extract information about the medical devices.
 
 # Future Improvements
 Incorporate additional data sources to enhance the analysis and provide more insights. 
