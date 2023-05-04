@@ -5,10 +5,10 @@
 Medical Devices and Spinal Cord Injuries
 
 # Project Objective
-The objective of this project is to analyze a dataset on medical devices to see if there is any correlation with spinal cord injuries.
+The objective of this project is to analyze available medical devices on the market that aid in the recovery of spinal cord patients, and evaluate the competitiveness of a proposed new device. Specifically,  aim to identify any special handling conditions required by these devices, such as specific storage or sterilization requirements. Additionally, track the frequency of updates made to products in this category to understand the pace of innovation in this field. The results of this analysis will provide the company with valuable insights to help them develop and market their new product more effectively.
 
 # What problem are you solving?
-This project aims to find valuable information about medical devices that can help in preventing spinal cord injuries or aiding in the treatment of such injuries.
+This project aims to find valuable information about medical devices that can help make improvements to the medical devices related to spinal cord injuries on the market.
 
 # How are you solving this problem?
 This project will analyze a dataset on medical devices to identify any trends or patterns that may suggest a relationship between certain medical devices and spinal cord injuries.
@@ -24,7 +24,7 @@ This project involves working with a dataset on medical devices to analyze and e
 The data was collected from the National Library of Medicine's openFDA API.
 
 # Characteristics
-The dataset contains information about medical devices that have been approved by the FDA. It includes details such as the device name, manufacturer, approval date, and classification. Additionally, the dataset also includes adverse events reported for each device, including spinal cord injuries.
+The dataset contains information about medical devices that have been approved by the FDA. It includes details such as the device name, manufacturer, approval date, and classification.
 
 # Notebooks
 -data_collection.ipynb
@@ -34,5 +34,5 @@ This notebook contains the code used to collect the data from the National Libra
 This notebook contains the code used to load the data into a SQL database and perform analysis on it. It includes SQL queries to extract information about the medical devices and adverse events, as well as code to visualize the data using Python libraries such as Pandas and Matplotlib.
 
 # Future Improvements
-Incorporate additional data sources to enhance the analysis and provide more insights.
+Incorporate additional data sources to enhance the analysis and provide more insights. 
 Use machine learning algorithms to identify any patterns or trends in the data that may not be immediately apparent.
