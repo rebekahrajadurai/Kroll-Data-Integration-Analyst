@@ -20,10 +20,10 @@ Kroll Government Solutions is a consulting firm that provides solutions to compl
 This project involves working with a dataset on medical devices to analyze and extract valuable insights. This requires the ability to program data import/export, perform analysis, and execute programs - all of which are key responsibilities of a data integration analyst.
 
 # Data 
-#   Source
+##  Source
 The data was collected from the National Library of Medicine's openFDA API.
 
-#   Characteristics
+##   Characteristics
 The dataset contains information about medical devices that have been approved by the FDA. It includes details such as the device name, manufacturer, approval date, and classification.
 
 # Notebooks
